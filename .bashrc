@@ -1,1 +1,1 @@
-PS1="karashi(^-^)39 $"
+PS1="karashi(^-^)39 $ "
