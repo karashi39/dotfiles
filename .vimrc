@@ -19,3 +19,5 @@ set backspace=indent,eol,start
 set list
 set number
 set textwidth=0
+
+set laststatus=2
